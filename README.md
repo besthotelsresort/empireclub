@@ -1,0 +1,2 @@
+# empireclub
+Static site: empireclub
